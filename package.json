@@ -1,0 +1,27 @@
+{
+  "name": "twitter_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankar-coding/twitter_clone.git"
+  },
+  "keywords": [
+    "twitter-clone"
+  ],
+  "author": "github.com/sankar-coding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankar-coding/twitter_clone/issues"
+  },
+  "homepage": "https://github.com/sankar-coding/twitter_clone#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
